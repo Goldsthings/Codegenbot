@@ -19,4 +19,4 @@ async def generatecode(ctx):
 async def help(ctx):
     await ctx.reply("!generatecode (for generate code)")
 
-client.run(TOKEN, bot=True)
+client.run(OTI0NDAyMDcyNDkxNzk4NTU4.YceChA.UpEeUpNMp118mz0ykXMTWVpkOHs, bot=True)
